@@ -10,7 +10,6 @@ Beyond web development, I'm interested in cloud computing, DevOps, software qual
 
 I believe software engineering is a continuous learning journey. That's why I actively build projects, explore new technologies, contribute to developer communities, and share my knowledge through technical writing.
 
----
 
 ## 🚀 What I Do
 
@@ -23,7 +22,6 @@ I believe software engineering is a continuous learning journey. That's why I ac
 - 🔌 Explore Embedded Systems & IoT
 - 🌱 Continuously Learn and Improve
 
----
 
 ## 💻 Tech Stack
 
@@ -69,7 +67,6 @@ I believe software engineering is a continuous learning journey. That's why I ac
 - Software Testing
 - CI/CD
 
----
 
 ## 🌟 Featured Projects
 
@@ -79,7 +76,6 @@ I believe software engineering is a continuous learning journey. That's why I ac
 - 🤖 AI-Based Computer Vision Projects
 - 🌐 Huawei Cloud Bootcamp Platform
 
----
 
 ## 🌱 Currently Learning
 
@@ -90,7 +86,6 @@ I believe software engineering is a continuous learning journey. That's why I ac
 - Design Patterns
 - DevOps Practices
 
----
 
 ## 📊 GitHub Stats
 
@@ -103,7 +98,6 @@ I believe software engineering is a continuous learning journey. That's why I ac
   <img src="https://github-readme-streak-stats.herokuapp.com?user=buseipek-ncrgl&theme=transparent&hide_border=true" />
 </p>
 
----
 
 ## ✍️ Technical Writing
 
@@ -111,14 +105,9 @@ I enjoy documenting my learning journey by writing about software development, c
 
 📖 **Medium:** https://medium.com/@buseipekncrgl
 
----
 
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/buse-ipek-nacaroglu/
 - ✍️ Medium: https://medium.com/@buseipekncrgl
 - 📧 Email: ipekncrgl@gmail.com
-
----
-
-> *"Building scalable software, embracing continuous learning, and turning ideas into impactful solutions."* 🚀
