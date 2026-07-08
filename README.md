@@ -27,31 +27,31 @@ I believe software engineering is a continuous learning journey. That's why I ac
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,js,python,c,cpp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,c,cpp" />
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ### Backend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
 </p>
 
-### Databases
+### Databases & ORM
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
 </p>
 
 ### Cloud & DevOps
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
 </p>
 
