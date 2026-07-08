@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-### Full Stack Developer • Backend Development • Cloud Computing • Embedded Systems
+### Full Stack Developer • Cloud Computing • Embedded Systems
 
 I'm a Software Engineer passionate about building scalable, reliable, and user-focused software solutions. My primary focus is Full Stack Development, where I enjoy creating modern web applications, designing secure backend architectures, and developing robust RESTful APIs.
 
